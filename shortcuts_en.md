@@ -12,20 +12,32 @@
 ## Editor (Code Editing)
 |Action|Shortcurt|
 |-|-:|
-|	Code completion | ⌃ + Space |
-|	Move line down | ⌥ + ⌘ + ] |	
-|	Move line up | ⌥ + ⌘ + [ |
-|	Comment line/selection | ⌘ + / |	
-|	Balance indent 	| ⌃ + I |	
+| Code completion | ⌃ + Space OR Esc |
+| Move line down | ⌥ + ⌘ + ] |	
+| Move line up | ⌥ + ⌘ + [ |
+| Comment line/selection | ⌘ + / |	
+| Balance indent | ⌃ + I |	
 
-## Editor (Window Layout)
+## Editor (View Layout)
 |Action|Shortcurt|
 |-|-:|
 | Show Editor Only | ⌘ + ↩︎ |
 | Toggle Canvas/Preview | ⌥ + ⌘ + ↩︎ |
 | Toggle Assistant | ⌃ + ⌥ + ⌘ + ↩︎ |
-| Toggle Minimap | ⌃ + ⇧ + ⌘ + M |
-| Toggle Authors | ⌃ + ⇧ + ⌘ + A |
+| Toggle Minimap | ⇧ + ⌃ + ⌘ + M |
+| Toggle Authors | ⇧ + ⌃ + ⌘ + A |
+
+## Editor (View/Navigate)
+|Action|Shortcurt|
+|-|-:|
+| Toggle Code Review | ⇧ + ⌥ + ⌘ + ↩︎ |
+| Toggle Focus | ⇧ + ⌃ + ⌘ + ↩︎ |
+| Move Focus To Editor... | ⌘ + J |
+| Move Focus To Next Editor... | ⌘ + ` |
+| Move Focus To Next Area... | ⌥ + ⌘ + ` |
+| Add new Editor | ⌃ + ⌘ + T |
+| Open File in next Editor | ⌥ + Open File |
+| Open File with desitnation chooser| ⇧ + ⌥ + Open File |
 
 ## Navigation
 |Action|Shortcurt|
@@ -35,8 +47,8 @@
 | Jump to definition | ⌃ + ⌘ + J |
 | Find selected symbol in workspace | ⇧ + ⌃ + ⌘ + F |
 | Find call hierarchy |	⇧ + ⌃ + ⌘ + H |
-| Open quickly	| ⇧ + ⌘ + O |
-| Jump to line	| ⌘ + L |
+| Open quickly | ⇧ + ⌘ + O |
+| Jump to line | ⌘ + L |
 | Show document items |	⌃ + 6 |
 
 ## View
@@ -59,10 +71,12 @@
 ## Product 
 |Action|Shortcurt|
 |-|-:|
-|Run| ⌘ + R |
-|Test| ⌘ + U |
-|Profile| ⌘ + I |
-|Analyze| ⇧ + ⌘ + B |
+| Run | ⌘ + R |
+| Run without Building | ⌃ + ⌘ + R |
+| Test | ⌘ + U |
+| Profile | ⌘ + I |
+| Analyze | ⇧ + ⌘ + B |
+| Stop | ⌘ + . |
 
 ## General
 |Action|Shortcurt|
