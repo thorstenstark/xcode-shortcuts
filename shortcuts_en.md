@@ -74,7 +74,8 @@
 ## Product 
 |Action|Shortcurt|
 |-|-:|
-| Run | ⌘ + R |
+| Build | ⌘ + B |
+| Build and Run | ⌘ + R |
 | Run without Building | ⌃ + ⌘ + R |
 | Test | ⌘ + U |
 | Profile | ⌘ + I |
