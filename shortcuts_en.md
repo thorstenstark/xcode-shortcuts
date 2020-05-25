@@ -15,6 +15,8 @@
 | Code completion | ⌃ + Space OR Esc |
 | Move line down | ⌥ + ⌘ + ] |	
 | Move line up | ⌥ + ⌘ + [ |
+| Fold code block | ⌥ + ⌘ + ← |  
+| Unfold code block | ⌥ + ⌘ + → |
 | Comment line/selection | ⌘ + / |	
 | Balance indent | ⌃ + I |	
 
