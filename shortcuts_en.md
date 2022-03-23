@@ -38,10 +38,10 @@
 | Move Focus To Next Editor... | ⌘ + \` |
 | Move Focus To Next Area... | ⌥ + ⌘ + \` |
 | Add new Editor | ⌃ + ⌘ + T |
-| Close Editor | ⌃ + ⌥ + ⌘ + W |
+| Close Editor | ⌃ + ⇧ + ⌘ + W |
 | Open File in next Editor | ⌥ + Open File |
 | Open File with destination chooser| ⇧ + ⌥ + Open File |
-| Show File in Navigator| ⇧ + ⌘ + J |
+| Reveal File in Project Navigator| ⇧ + ⌘ + J |
 
 
 ## Navigation
