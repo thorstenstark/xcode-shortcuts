@@ -1,4 +1,4 @@
-# Xcode 11 shortcuts
+# Xcode shortcuts (Xcode 11+)
 
 ## Legend
 ⌘ = Command
@@ -10,7 +10,7 @@
 
 
 ## Editor (Code Editing)
-|Action|Shortcurt|
+|Action|Shortcut|
 |-|-:|
 | Code completion | ⌃ + Space OR Esc |
 | Move line down | ⌥ + ⌘ + ] |	
@@ -21,7 +21,7 @@
 | Balance indent | ⌃ + I |	
 
 ## Editor (View Layout)
-|Action|Shortcurt|
+|Action|Shortcut|
 |-|-:|
 | Show Editor Only | ⌘ + ↩︎ |
 | Toggle Canvas/Preview | ⌥ + ⌘ + ↩︎ |
@@ -30,20 +30,22 @@
 | Toggle Authors | ⇧ + ⌃ + ⌘ + A |
 
 ## Editor (View/Navigate)
-|Action|Shortcurt|
+|Action|Shortcut|
 |-|-:|
 | Toggle Code Review | ⇧ + ⌥ + ⌘ + ↩︎ |
 | Toggle Focus | ⇧ + ⌃ + ⌘ + ↩︎ |
 | Move Focus To Editor... | ⌘ + J |
-| Move Focus To Next Editor... | ⌘ + ` |
-| Move Focus To Next Area... | ⌥ + ⌘ + ` |
+| Move Focus To Next Editor... | ⌘ + \` |
+| Move Focus To Next Area... | ⌥ + ⌘ + \` |
 | Add new Editor | ⌃ + ⌘ + T |
 | Close Editor | ⌃ + ⌥ + ⌘ + W |
 | Open File in next Editor | ⌥ + Open File |
-| Open File with desitnation chooser| ⇧ + ⌥ + Open File |
+| Open File with destination chooser| ⇧ + ⌥ + Open File |
+| Show File in Navigator| ⇧ + ⌘ + J |
+
 
 ## Navigation
-|Action|Shortcurt|
+|Action|Shortcut|
 |-|-:|
 | Go back | ⌃ + ⌘ + ← |
 | Go forward | ⌃ + ⌘ + → |
